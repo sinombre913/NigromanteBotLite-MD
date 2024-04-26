@@ -1,0 +1,38 @@
+{
+  "name": "NigromanteBotLite-MD",
+  "website": "https://github.com/sinombre913",
+  "description": "subscribe to the channel NigromanteBot-MD (≧▽≦)",
+  "repository": "https://github.com/sinombre913/NigromanteBotLite-MD.hit",
+  "logo": "https://i.imgur.com/AmzlKVi.jpeg",
+  "success_url": "https://github.com/sinombre913/NigromanteBotLite-MD",
+  "keywords": [
+    "nodejs",
+    "heroku",
+    "bot",
+    "bots",
+    "bot",
+    "spanish",
+    "whatsapp",
+    "termux",
+    "miku",
+    "multi-device",
+    "md",
+    "whatsappbot",
+    "oficial",
+    "whatsapp-md",
+    "thenigromantebot",
+    "thenigromante-bot",
+    "thenigromante-bot-md"],
+  "image": "heroku/nodejs",
+  "buildpacks": [
+    {
+      "url": "heroku/nodejs"
+    },
+    {
+      "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+    },
+    {
+      "url": "https://github.com/bogini/heroku-buildpack-graphicsmagick"
+    }    
+ ]
+}
