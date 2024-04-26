@@ -130,6 +130,6 @@ npm start
 
 
 ## `CREADO POR sinombre913` 
-<a href="https://github.com/sinombre913"><img src="https://qu.ax/bwBW.jpg" width="250" height="250" alt="sinombre913"/></a>
+<a href="https://github.com/sinombre913.png"><img src="https://qu.ax/bwBW.jpg" width="250" height="250" alt="sinombre913"/></a>
   
 `NIGROMANTEBOTLITE-MD - By SINOMBRE913`
